@@ -1,0 +1,21 @@
+Goals: Write a program in c that will create a 9-item array with random numbers and then sort the elements of the array using pointers.
+Input: An array of 9 integers
+Output: The 9 integer array that has been sorted.
+Steps:
+Create and fill the array with random numbers. The seed will be the time.
+Create the 3 functions being called in the provided code.
+The 3 functions are printValues, sort, and swap.
+
+printValues(): 
+	define variable ints that will hold the final string to be printed
+	iterate through the values variable and add the value to ints
+	print ints
+
+sort():
+	iterate through values for a
+		iterate through values for b
+			if a > b, then swap a and b
+
+swap(value a, value b):
+	swap position of a and b in values
+	

@@ -1,0 +1,32 @@
+Goals: Make a program that simulates a horse race, using a "coin flip" to determine whether they move forward each turn.
+
+Input: Number of your choice to seed the random number generator
+
+Output: The race results each turn as well as a winner when one is decided
+
+Steps:
+
+Prototypes: void printTracks(), void won()
+
+Define a 5 item array. This will hold the number for how far in the track horses 1-5 are.
+
+In main function:
+	Define run variable and set as true
+	Ask input for random number
+	Use that number to seed the generator
+	While run is true:
+		define win variable and set to false
+		for each item of global array:
+			generate random number between 0 and 1
+			add the random number to the current track, since its only 0 or 1
+			if track position number is 15:
+				run is set to false and win variable is set to true
+		if win variable is true, call won function
+		call printTracks() 
+
+printTrack(track):
+	find track value in array with track parameter
+	print a string of 15 "."'s, and insert the (track parameter + 1) number at the track value
+
+won():
+	iterate through all the tracks and announce any horses at 15. (Will work with ties)

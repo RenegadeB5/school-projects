@@ -1,0 +1,14 @@
+Name: Duncan Barnes
+
+Major: Computer Science
+
+Prior Experience: I know a decent amount about javascript and node, I used to make a bunch of
+discord bots. I spend more time on my laptop than I do my phone so my knowledge about computers is
+above average.
+
+I've always been a nerd growing up, especially when it came to computers, so when the time came around
+to start thinking about what I want to do in the future, the answer was immediately clear. In nerd
+words, I want to become a full stack developer.
+
+My hobbies as of now include but are not limited to youtube and anime.
+ 

@@ -1,0 +1,50 @@
+FirstName: Florence|LastName: Forrest|Address1: 1843 Glenview Drive|Address2: |City: Corpus Christi|State: TX|Zip: 78401|DateOfBirth: 10/12/1992|GraduationDate: 5/14/2012|GPA: 3.215|CreditHours: 127
+FirstName: Casey|LastName: Roberta|Address1: 3668 Thunder Road|Address2: |City: Palo Alto|State: CA|Zip: 94306|DateOfBirth: 2/13/1983|GraduationDate: 5/14/2014|GPA: 2.978|CreditHours: 95
+FirstName: Koch|LastName: Sandra|Address1: 2707 Waterview Lane|Address2: Apt 302|City: Las Vegas|State: NM|Zip: 87701|DateOfBirth: 6/6/1972|GraduationDate: 12/14/2015|GPA: 2.546|CreditHours: 69
+FirstName: Dover|LastName: Darrel|Address1: 845 Dola Mine Road|Address2: |City: Wendell|State: NC|Zip: 27591|DateOfBirth: 3/31/1968|GraduationDate: 5/14/2012|GPA: 3.958|CreditHours: 75
+FirstName: Turner|LastName: Doris|Address1: 4489 Tully Street|Address2: Apt B|City: Detroit|State: MI|Zip: 48219|DateOfBirth: 5/21/1988|GraduationDate: 5/14/2014|GPA: 2.127|CreditHours: 187
+FirstName: Hernandez|LastName: Juan|Address1: 2656 Creekside Lane|Address2: |City: Goleta|State: CA|Zip: 93117|DateOfBirth: 7/21/1979|GraduationDate: 12/14/2015|GPA: 1.598|CreditHours: 156
+FirstName: Moon|LastName: Sandy|Address1: 1125 Joyce Street|Address2: |City: Mobile|State: AL|Zip: 36693|DateOfBirth: 12/28/1977|GraduationDate: 5/14/2012|GPA: 3.995|CreditHours: 124
+FirstName: Reid|LastName: Andre|Address1: 1225 Gnatty Creek Road|Address2: |City: Westbury|State: NY|Zip: 11590|DateOfBirth: 12/19/1986|GraduationDate: 5/14/2014|GPA: 2.985|CreditHours: 112
+FirstName: Cracraft|LastName: Tara|Address1: 3479 Austin Avenue|Address2: |City: Brunswick|State: GA|Zip: 31520|DateOfBirth: 2/4/1973|GraduationDate: 12/14/2015|GPA: 3.256|CreditHours: 162
+FirstName: Valadez|LastName: Vincent|Address1: 1740 Parkview Drive|Address2: |City: Sugar Land|State: TX|Zip: 77478|DateOfBirth: 9/23/1975|GraduationDate: 5/14/2012|GPA: 3.127|CreditHours: 106
+FirstName: Howard|LastName: William|Address1: 816 Wayside Lane|Address2: |City: Hayward|State: CA|Zip: 94545|DateOfBirth: 4/9/1971|GraduationDate: 5/14/2014|GPA: 3.568|CreditHours: 95
+FirstName: Mills|LastName: Gary|Address1: 2888 Rowes Lane|Address2: |City: Irvington|State: KY|Zip: 40146|DateOfBirth: 4/22/1990|GraduationDate: 12/14/2015|GPA: 3.759|CreditHours: 127
+FirstName: Lett|LastName: Victoria|Address1: 4250 Pringle Drive|Address2: |City: Chicago|State: IL|Zip: 60606|DateOfBirth: 8/13/1987|GraduationDate: 5/14/2012|GPA: 3.862|CreditHours: 95
+FirstName: Brice|LastName: William|Address1: 4332 Larry Street|Address2: Apt 456|City: New Berlin|State: WI|Zip: 53151|DateOfBirth: 1/11/1974|GraduationDate: 5/14/2014|GPA: 3.215|CreditHours: 69
+FirstName: Hutchison|LastName: Craig|Address1: 3704 Green Street|Address2: |City: Nashville|State: TN|Zip: 37211|DateOfBirth: 9/27/1969|GraduationDate: 12/14/2015|GPA: 2.978|CreditHours: 75
+FirstName: Taylor|LastName: Danielle|Address1: 4900 Hudson Street|Address2: |City: Haledon|State: NJ|Zip: 7508|DateOfBirth: 7/17/1983|GraduationDate: 5/14/2012|GPA: 2.546|CreditHours: 162
+FirstName: Gingerich|LastName: Ermelinda|Address1: 3834 Milford Street|Address2: Apt F|City: Sunapee|State: NH|Zip: 3782|DateOfBirth: 12/17/1973|GraduationDate: 5/14/2014|GPA: 3.958|CreditHours: 106
+FirstName: Moody|LastName: Derek|Address1: 264 Tetrick Road|Address2: |City: Bowling Green|State: FL|Zip: 33834|DateOfBirth: 10/23/1980|GraduationDate: 12/14/2015|GPA: 2.127|CreditHours: 95
+FirstName: Howell|LastName: Sonja|Address1: 1093 Olen Thomas Drive|Address2: P.O. Box 552|City: Wichita Falls|State: TX|Zip: 76301|DateOfBirth: 9/18/1984|GraduationDate: 5/14/2012|GPA: 1.598|CreditHours: 124
+FirstName: Miser|LastName: Michael|Address1: 1532 South Street|Address2: |City: Midland|State: TX|Zip: 79701|DateOfBirth: 10/25/1967|GraduationDate: 5/14/2014|GPA: 3.995|CreditHours: 75
+FirstName: Davenport|LastName: Robin|Address1: 4174 Columbia Mine Road|Address2: |City: Wheeling|State: WV|Zip: 26003|DateOfBirth: 3/9/1971|GraduationDate: 12/14/2015|GPA: 2.985|CreditHours: 187
+FirstName: Langley|LastName: Joycelyn|Address1: 1254 Woodland Drive|Address2: |City: Omaha|State: NE|Zip: 68114|DateOfBirth: 2/8/1979|GraduationDate: 5/14/2012|GPA: 3.256|CreditHours: 156
+FirstName: Bryant|LastName: Ann|Address1: 1334 Progress Way|Address2: |City: Minneapolis|State: MN|Zip: 55401|DateOfBirth: 2/28/1977|GraduationDate: 5/14/2014|GPA: 3.127|CreditHours: 124
+FirstName: Barnett|LastName: Patrick|Address1: 2432 Warner Street|Address2: |City: Casper|State: WY|Zip: 82601|DateOfBirth: 7/28/1977|GraduationDate: 12/14/2015|GPA: 3.568|CreditHours: 95
+FirstName: Knepp|LastName: Christopher|Address1: 1012 Oakmound Road|Address2: |City: Chicago|State: IL|Zip: 60623|DateOfBirth: 2/21/1968|GraduationDate: 5/14/2012|GPA: 3.759|CreditHours: 127
+FirstName: Canfield|LastName: Reginald|Address1: 4212 Coal Street|Address2: |City: Somerset|State: PA|Zip: 15501|DateOfBirth: 3/21/1988|GraduationDate: 5/14/2014|GPA: 3.862|CreditHours: 95
+FirstName: Lippert|LastName: Margarita|Address1: 781 Hillcrest Lane|Address2: |City: Fullerton|State: CA|Zip: 93632|DateOfBirth: 6/8/1978|GraduationDate: 12/14/2015|GPA: 1.598|CreditHours: 69
+FirstName: Kist|LastName: Barbara|Address1: 2103 Mapleview Drive|Address2: |City: Jackson|State: TN|Zip: 38301|DateOfBirth: 11/3/1980|GraduationDate: 5/14/2012|GPA: 3.995|CreditHours: 75
+FirstName: Waters|LastName: Ladonna|Address1: 68 Oak Ridge Drive|Address2: |City: Mexico|State: MO|Zip: 65265|DateOfBirth: 4/4/1969|GraduationDate: 5/14/2014|GPA: 2.985|CreditHours: 187
+FirstName: Shepherd|LastName: Julio|Address1: 2446 Camden Street|Address2: |City: Reno|State: NV|Zip: 89502|DateOfBirth: 6/23/1978|GraduationDate: 12/14/2015|GPA: 3.256|CreditHours: 156
+FirstName: Hernandez|LastName: Antonio|Address1: 3232 Fairmont Avenue|Address2: |City: Kansas City|State: MO|Zip: 64106|DateOfBirth: 3/12/1980|GraduationDate: 5/14/2012|GPA: 3.127|CreditHours: 124
+FirstName: Ridge|LastName: Sharon|Address1: 3964 Stoney Lane|Address2: P.O. Box 549|City: Dallas|State: TX|Zip: 75247|DateOfBirth: 1/8/1991|GraduationDate: 5/14/2014|GPA: 3.568|CreditHours: 112
+FirstName: Lambert|LastName: Michael|Address1: 2174 Kyle Street|Address2: |City: Venango|State: NE|Zip: 69168|DateOfBirth: 10/6/1982|GraduationDate: 12/14/2015|GPA: 3.759|CreditHours: 162
+FirstName: Tapp|LastName: Michael|Address1: 4569 Shobe Lane|Address2: |City: Greeley|State: CO|Zip: 80634|DateOfBirth: 3/12/1972|GraduationDate: 5/14/2012|GPA: 3.862|CreditHours: 106
+FirstName: Lewis|LastName: Peggy|Address1: 1601 Hall Valley Drive|Address2: |City: Wheeling|State: WV|Zip: 26003|DateOfBirth: 5/1/1981|GraduationDate: 5/14/2014|GPA: 1.598|CreditHours: 127
+FirstName: Smith|LastName: Darren|Address1: 2836 Briarwood Road|Address2: |City: Springfield|State: MO|Zip: 65804|DateOfBirth: 5/26/1968|GraduationDate: 12/14/2015|GPA: 3.995|CreditHours: 95
+FirstName: Adair|LastName: Jeffrey|Address1: 4478 Hillside Street|Address2: |City: Phoenix|State: AZ|Zip: 85016|DateOfBirth: 7/3/1986|GraduationDate: 5/14/2012|GPA: 2.985|CreditHours: 69
+FirstName: Greene|LastName: Eric|Address1: 569 Pine Garden Lane|Address2: |City: Norcross|State: GA|Zip: 30091|DateOfBirth: 8/10/1972|GraduationDate: 5/14/2014|GPA: 3.256|CreditHours: 75
+FirstName: Gilham|LastName: Mike|Address1: 3543 Ventura Drive|Address2: Apt H|City: Marina|State: CA|Zip: 93933|DateOfBirth: 9/27/1980|GraduationDate: 12/14/2015|GPA: 2.546|CreditHours: 162
+FirstName: Dorsey|LastName: Tammy|Address1: 2111 Liberty Avenue|Address2: |City: Los Angeles|State: CA|Zip: 90017|DateOfBirth: 10/19/1969|GraduationDate: 5/14/2012|GPA: 3.958|CreditHours: 106
+FirstName: Lewis|LastName: Robert|Address1: 2253 Brannon Avenue|Address2: |City: Jacksonville|State: FL|Zip: 32216|DateOfBirth: 8/6/1979|GraduationDate: 5/14/2014|GPA: 2.127|CreditHours: 95
+FirstName: Petitt|LastName: Craig|Address1: 2397 My Drive|Address2: |City: Garden City|State: NY|Zip: 11530|DateOfBirth: 6/15/1971|GraduationDate: 12/14/2015|GPA: 1.598|CreditHours: 124
+FirstName: Quarles|LastName: Helen|Address1: 98 Mount Tabor|Address2: |City: New York|State: NY|Zip: 10013|DateOfBirth: 9/5/1980|GraduationDate: 5/14/2012|GPA: 3.995|CreditHours: 75
+FirstName: Frey|LastName: Catherine|Address1: 1504 Shobe Lane|Address2: |City: Loveland|State: CO|Zip: 80537|DateOfBirth: 4/5/1981|GraduationDate: 5/14/2014|GPA: 2.985|CreditHours: 69
+FirstName: Ortiz|LastName: Sophie|Address1: 977 Seltice Way|Address2: Apt 56|City: Boise|State: ID|Zip: 83704|DateOfBirth: 8/6/1976|GraduationDate: 12/14/2015|GPA: 3.256|CreditHours: 75
+FirstName: McAbee|LastName: Michael|Address1: 959 Hall Street|Address2: |City: Las Vegas|State: NV|Zip: 89119|DateOfBirth: 3/7/1991|GraduationDate: 5/14/2012|GPA: 3.127|CreditHours: 187
+FirstName: Herrera|LastName: David|Address1: 3084 Hart Country Lane|Address2: |City: Norcross|State: GA|Zip: 30093|DateOfBirth: 6/19/1981|GraduationDate: 5/14/2014|GPA: 2.127|CreditHours: 156
+FirstName: Parry|LastName: Paul|Address1: 3425 Valley Street|Address2: |City: Vineland|State: NJ|Zip: 8360|DateOfBirth: 12/17/1973|GraduationDate: 12/14/2015|GPA: 1.598|CreditHours: 124
+FirstName: Carter|LastName: Lisa|Address1: 1809 Oak Ridge Drive|Address2: |City: Rolla|State: MO|Zip: 65401|DateOfBirth: 2/25/1989|GraduationDate: 5/14/2012|GPA: 3.995|CreditHours: 112
+FirstName: Barbee|LastName: James|Address1: 4756 Mapleview Drive|Address2: |City: Ripley|State: TN|Zip: 38063|DateOfBirth: 12/27/1983|GraduationDate: 5/14/2014|GPA: 2.985|CreditHours: 162

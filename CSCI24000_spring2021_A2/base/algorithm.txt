@@ -1,0 +1,22 @@
+Goals: Write a program in c that will sort the elements of an array using pointers.
+Input: An array of 9 integers
+Output: The 9 integer array that has been sorted.
+Steps:
+Create the 3 functions being called in the provided code.
+The 3 functions are printValues, sort, and swap.
+
+printValues(): 
+	define variable ints that will hold the final string to be printed
+	iterate through the values array and print each number
+
+sort():
+	iterate through values for a
+		iterate through values for b
+			if a > b, then swap a and b by passing them to the swap function as pointers
+
+swap(value a, value b):
+	put a in a temp variable
+	set a equal to b
+	set b equal to temp variable
+	
+	
