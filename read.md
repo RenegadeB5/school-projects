@@ -1,2 +1,2 @@
 Hiding more recent projects upon request of the instructors.<br/>
-Can show upon employer's request
+Can show upon employer's request.
